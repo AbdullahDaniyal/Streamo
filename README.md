@@ -1,14 +1,17 @@
 # Streamo
-I developed an App using Flutter with Firebase to make a streaming app, this is my first iteration which allows user to be in a video room call. 
-#Screenshots
-<div style="display: flex; justify-content: center;">
-    <img src="https://github.com/AbdullahDaniyal/Streamo/assets/91824833/533728dc-f513-4ab9-8932-eb87b6e52bab" alt="Screenshot 1" width="30%">
-    <img src="https://github.com/AbdullahDaniyal/Streamo/assets/91824833/a2346417-7ec2-43a0-8002-4da3378c0c1f" alt="Screenshot 2" width="30%">
-    <img src="https://github.com/AbdullahDaniyal/Streamo/assets/91824833/56995d07-7456-4c28-8083-eaa5f2637ba4" alt="Screenshot 3" width="30%">
+
+I developed an App using Flutter with Firebase to make a streaming app, and this is my first iteration which allows users to be in a video room call.
+
+## Screenshots
+
+<div align="center">
+  <img src="https://github.com/legistech/Streamo/assets/91824833/c1fa141a-7f74-477d-b18d-286e855a01d6" width="250" alt="Screenshot 1">
+  <img src="https://github.com/legistech/Streamo/assets/91824833/b0cfc59f-d561-4d8f-b936-04a5707457f3" width="250" alt="Screenshot 2">
+  <img src="https://github.com/legistech/Streamo/assets/91824833/7eafabca-b9ca-4323-8803-62c2cf8b8f6b" width="250" alt="Screenshot 3">
 </div>
 
-<div style="display: flex; justify-content: center;">
-    <img src="https://github.com/AbdullahDaniyal/Streamo/assets/91824833/46addf45-3c7e-4749-81a8-282034fd68a2" alt="Screenshot 4" width="30%">
-    <img src="https://github.com/AbdullahDaniyal/Streamo/assets/91824833/2044253c-28b8-47e3-a120-5d0a82314a38" alt="Screenshot 5" width="30%">
-    <img src="https://github.com/AbdullahDaniyal/Streamo/assets/91824833/5503c538-ef19-4dff-b579-b5efc688c271" alt="Screenshot 6" width="30%">
+<div align="center">
+  <img src="https://github.com/legistech/Streamo/assets/91824833/b84901cd-30b2-4041-b8da-d19a7d08729d" width="250" alt="Screenshot 4">
+  <img src="https://github.com/legistech/Streamo/assets/91824833/9f230f7f-48e7-4e55-bd0d-9c694e75761c" width="250" alt="Screenshot 5">
+  <img src="https://github.com/legistech/Streamo/assets/91824833/e5602408-2b28-425a-abba-d7b711c72e78" width="250" alt="Screenshot 6">
 </div>
