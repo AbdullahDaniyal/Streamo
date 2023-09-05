@@ -1,6 +1,6 @@
-# Streamo
+![streamo](https://socialify.git.ci/legistech/streamo/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
 
-I developed an App using Flutter with Firebase to make a streaming app, and this is my first iteration which allows users to be in a video room call.
+An App using Flutter with Firebase to make a streaming app, and this is my first iteration which allows users to be in a video room call.
 
 ## Screenshots
 
