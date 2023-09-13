@@ -12,6 +12,5 @@ I developed an App using Flutter with Firebase to make a streaming app, and this
 
 <div align="center">
   <img src="https://github.com/legistech/Streamo/assets/91824833/b84901cd-30b2-4041-b8da-d19a7d08729d" width="250" alt="Screenshot 4">
-  <img src="https://github.com/legistech/Streamo/assets/91824833/9f230f7f-48e7-4e55-bd0d-9c694e75761c" width="250" alt="Screenshot 5">
   <img src="https://github.com/legistech/Streamo/assets/91824833/e5602408-2b28-425a-abba-d7b711c72e78" width="250" alt="Screenshot 6">
 </div>
